@@ -10,7 +10,7 @@ Terraform installed on your local machine. You can download Terraform from the o
 
 Usage
 - Clone this repository to your local machine.
-- Change into the project directory: cd aws-ec2-instance-terraform-project
+- Change into the project directory of your choice
 - Initialize the Terraform working directory by running: terraform init
 - Review and modify the main.tf file if needed to configure the desired EC2 instance settings, such as AMI ID, instance type, security groups, subnet ID, and user data.
 - Apply the Terraform configuration by running: terraform apply
